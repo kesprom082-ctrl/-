@@ -425,10 +425,13 @@ Bantu kami meningkatkan mutu pelayanan RSUD Naibonat dengan mengisi survei kepua
 </p>
 <a class="btn btn-primary btn-lg" href="https://kesprom082-ctrl.github.io/promkesnaibonat/" target="_blank">
    Isi Survei Sekarang
-   
-</a>
+ </a>
 </div>
-
+</div>
+</div>
+</div>
+</div>
+</section>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 </div></section></body>
 </html>
