@@ -131,20 +131,6 @@ Lihat Profil
 </a>
 </div>
 </section>
-<!-- PROFIL -->
-
-<section class="py-5 bg-light" id="jadwaldokter">
-<div class="container">
-<h2 class="section-title text-center">Jadwal Dokter RSUD Naibonat</h2>
-<p class="text-center text-muted">Data ditampilkan langsung dari SIMRS.</p>
-<div class="card shadow">
-<div class="card-header bg-primary text-white">Jadwal Dokter</div>
-<div class="card-body p-0">
-<iframe height="900" loading="lazy" src="https://rsudnaibonat.simkeskhanza.com/" style="border:0;" width="100%"></iframe>
-</div></div></div></section>
-<section class="py-5" id="profil">
-<div class="container">
-<h2 class="section-title">
 Profil PKRS
 </h2>
 <div class="row">
@@ -417,6 +403,20 @@ Baca Selengkapnya
 </div>
 </div>
 </section>
+<!-- PROFIL -->
+
+<section class="py-5 bg-light" id="jadwaldokter">
+<div class="container">
+<h2 class="section-title text-center">Jadwal Dokter RSUD Naibonat</h2>
+<p class="text-center text-muted">Data ditampilkan langsung dari SIMRS.</p>
+<div class="card shadow">
+<div class="card-header bg-primary text-white">Jadwal Dokter</div>
+<div class="card-body p-0">
+<iframe height="900" loading="lazy" src="https://rsudnaibonat.simkeskhanza.com/" style="border:0;" width="100%"></iframe>
+</div></div></div></section>
+<section class="py-5" id="profil">
+<div class="container">
+<h2 class="section-title">
 <section class="py-5 bg-light">
 <div class="container text-center">
 <h2>Survei Kepuasan Pasien</h2>
@@ -425,6 +425,7 @@ Bantu kami meningkatkan mutu pelayanan RSUD Naibonat dengan mengisi survei kepua
 </p>
 <a class="btn btn-primary btn-lg" href="https://kesprom082-ctrl.github.io/promkesnaibonat/" target="_blank">
    Isi Survei Sekarang
+   
 </a>
 </div>
 </section>
