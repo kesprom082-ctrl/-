@@ -427,10 +427,6 @@ Bantu kami meningkatkan mutu pelayanan RSUD Naibonat dengan mengisi survei kepua
    Isi Survei Sekarang
 </a>
 </div>
-</div>
-</div>
-</div>
-</div>
 </section>    
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 <section id="google-map">
