@@ -427,7 +427,6 @@ Bantu kami meningkatkan mutu pelayanan RSUD Naibonat dengan mengisi survei kepua
 </p>
 <a class="btn btn-primary btn-lg" href="https://kesprom082-ctrl.github.io/promkesnaibonat/" target="_blank">
    Isi Survei Sekarang
-</a>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 <section id="google-map">
 <iframe allowfullscreen="true" frameborder="0" height="350" src="https://maps.google.com/maps?q=RUMAH%20SAKIT%20UMUM%20DAERAH%20NAIBONAT&amp;t=&amp;z=13&amp;ie=UTF8&amp;iwloc=&amp;output=embed" style="border:0" width="100%"></iframe>
