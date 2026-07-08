@@ -180,7 +180,7 @@ dengan metode bina suasana/konseling agar keluarga pasien lebih leluasa untuk me
 <div class="card-body p-2">
 <div class="ratio ratio-16x9">
 <!-- Ganti link video -->
-<iframe allowfullscreen="" src="https://screenapp.io/app/v/HDmv_5kTmj" title="Video Profil">
+<iframe allowfullscreen="" src="https://www.youtube.com/embed/O28NAXR_7wTxlIf-" title="Video Profil">
 </iframe>
 </div>
 </div>
