@@ -177,13 +177,19 @@ dengan metode bina suasana/konseling agar keluarga pasien lebih leluasa untuk me
 <i class="fas fa-play-circle"></i>
             Video Profil RSUD Naibonat
         </div>
-<div class="card-body p-2">
 <div class="ratio ratio-16x9">
-<!-- Ganti link video -->
-<iframe allowfullscreen="" src="https://www.youtube.com/embed/RhZ0t0MzFo8&t=624s" title="Video Profil">
-</iframe>
-</div>
-</div>
+    <video
+        autoplay
+        muted
+        loop
+        playsinline
+        controls
+        style="width:100%;height:100%;object-fit:cover;border-radius:10px;">
+
+        <source src="https://videotourl.com/videos/1783575972663-3dd81166-a0f8-4b1c-9d3f-60d847389b95.mp4" type="video/mp4">
+
+        Browser Anda tidak mendukung video.
+    </video>
 </div>
 <!-- Video -->
 <div class="card shadow border-0 mb-4">
