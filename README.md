@@ -132,7 +132,6 @@ Lihat Profil
 </div>
 </section>
 Profil PKRS
-</h2>
 <div class="row">
 <div class="col-md-6">
 <h4>Visi</h4>
