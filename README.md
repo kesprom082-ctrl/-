@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+
 <html lang="id">
 <head>
 <meta charset="utf-8"/>
@@ -200,10 +202,33 @@ dengan metode bina suasana/konseling agar keluarga pasien lebih leluasa untuk me
 <div class="card-body p-2">
 <div class="ratio ratio-16x9">
 <!-- Ganti link video -->
-<iframe allowfullscreen="" src="https://screenapp.io/app/v/WsYdSVTFpL" title="Video Jalur Poli">
+<iframe allowfullscreen="" src="src="https://www.youtube.com/embed/VIDEO_ID?autoplay=1&mute=1&loop=1&playlist=ttps://videotourl.com/videos/1783575972663-3dd81166-a0f8-4b1c-9d3f-60d847389b95.mp4"" title="Video Jalur Poli">
 </iframe>
 </div>
 </div>
+</div>
+<div class="card shadow border-0 mb-4">
+    <div class="card-header bg-primary text-white">
+        <i class="fas fa-play-circle"></i>
+        Video Profil RSUD Naibonat
+    </div>
+
+<div class="ratio ratio-16x9">
+    <video
+        autoplay
+        muted
+        loop
+        playsinline
+        controls
+        style="width:100%;height:100%;object-fit:cover;border-radius:10px;">
+
+        <source src="https://videotourl.com/videos/1783575972663-3dd81166-a0f8-4b1c-9d3f-60d847389b95.mp4" type="video/mp4">
+
+        Browser Anda tidak mendukung video.
+    </video>
+</div>
+        </div>
+    </div>
 </div>
 <!-- Galeri -->
 <div class="card shadow border-0">
@@ -347,7 +372,7 @@ Video Edukasi
 <div class="row">
 <div class="col-md-6 mb-4">
 <div class="ratio ratio-16x9">
-<iframe allowfullscreen="" src="https://screenapp.io/app/v/di8Sg4ev7J">
+<iframe allowfullscreen="src="https://www.youtube.com/embed/VIDEO_ID?autoplay=1&mute=1&loop=1&playlist=RhZ0t0MzFo8&t=624s"">
 </iframe>
 </div>
 </div>
@@ -431,10 +456,17 @@ Bantu kami meningkatkan mutu pelayanan RSUD Naibonat dengan mengisi survei kepua
 </p>
 <a class="btn btn-primary btn-lg" href="https://kesprom082-ctrl.github.io/promkesnaibonat/" target="_blank">
    Isi Survei Sekarang
+   
 </a>
 </div>
-</section>    
+</section>
+</div>
+
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+</div></section></body>
+</html>
+
+
 <section id="google-map">
 <iframe allowfullscreen="true" frameborder="0" height="350" src="https://maps.google.com/maps?q=RUMAH%20SAKIT%20UMUM%20DAERAH%20NAIBONAT&amp;t=&amp;z=13&amp;ie=UTF8&amp;iwloc=&amp;output=embed" style="border:0" width="100%"></iframe>
 </section>
