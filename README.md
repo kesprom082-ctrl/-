@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-
 <html lang="id">
 <head>
 <meta charset="utf-8"/>
@@ -193,26 +191,6 @@ dengan metode bina suasana/konseling agar keluarga pasien lebih leluasa untuk me
         Browser Anda tidak mendukung video.
     </video>
 </div>
-<!-- Video -->
-<div class="card shadow border-0 mb-4">
-<div class="card-header bg-primary text-white">
-<i class="fas fa-play-circle"></i>
-            Video Jalur Poli
-        </div>
-<div class="card-body p-2">
-<div class="ratio ratio-16x9">
-<!-- Ganti link video -->
-<iframe allowfullscreen="" src="src="https://www.youtube.com/embed/VIDEO_ID?autoplay=1&mute=1&loop=1&playlist=ttps://videotourl.com/videos/1783575972663-3dd81166-a0f8-4b1c-9d3f-60d847389b95.mp4"" title="Video Jalur Poli">
-</iframe>
-</div>
-</div>
-</div>
-<div class="card shadow border-0 mb-4">
-    <div class="card-header bg-primary text-white">
-        <i class="fas fa-play-circle"></i>
-        Video Profil RSUD Naibonat
-    </div>
-
 <div class="ratio ratio-16x9">
     <video
         autoplay
